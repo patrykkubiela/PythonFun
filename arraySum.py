@@ -2,11 +2,10 @@
 samplearray = [1,2,34,5,6,2]
 
 def arraySum(array):
-    result = 0
+    wynik = 0
     for n in array:
-        result = result + n
-    return result
+        wynik = wynik + n
+    return wynik
 
-print("result")
+print("wynik")
 print(arraySum(samplearray))
-print(arraySum([2,3,5]))
