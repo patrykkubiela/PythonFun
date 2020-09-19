@@ -1,4 +1,5 @@
 
+
 samplearray = [1,2,34,5,6,2]
 
 def arraySum(array):
